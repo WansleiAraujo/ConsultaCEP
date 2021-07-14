@@ -14,7 +14,7 @@
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container">
-                <a class="navbar-brand  text-info" asp-area="Default.aspx" asp-page="Default.aspx" href="Default.aspx">FORMULÁRIO</a>
+                <a class="navbar-brand text-info" asp-area="Default.aspx" asp-page="Default.aspx" href="Default.aspx">LOCALIZAR CEP</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -22,10 +22,10 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="Cliente.aspx" href="Cliente.aspx">Cadastro</a>
+                            <a class="nav-link text-dark" asp-area="" asp-page="ConsultaCep.aspx" href="ConsultaCep.aspx">Consulta</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="ListaCliente.aspx" href="Cliente.aspx">Lista de Clientes</a>
+                            <a class="nav-link text-dark" asp-area="" asp-page="Consultados.aspx" href="Consultados.aspx">Consultados</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-page="Default.aspx" href="Default.aspx">Sair</a>
@@ -42,7 +42,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-12 text-center my-2" >
-                            <h1 class="display-6" style="margin-top:100px">Formulário de cadastramento de clientes</h1>
+                            <h1 class="display-6" style="margin-top:100px">Consulta de CEP</h1>
                             <i class="fas-clipboard-list-check"></i>
                         </div>
                     </div>

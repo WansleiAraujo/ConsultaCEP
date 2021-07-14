@@ -46,9 +46,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BaseDados.cs" />
-    <Compile Include="ClienteDados.cs" />
+    <Compile Include="CepDados.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TelefoneDados.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Formulario.VO\Formulario.VO.csproj">

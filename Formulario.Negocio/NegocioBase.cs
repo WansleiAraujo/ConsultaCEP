@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using Formulario.VO;
-using Formulario.Dados;
+﻿using System.Collections.Generic;
 
 namespace Formulario.Negocio
 {
