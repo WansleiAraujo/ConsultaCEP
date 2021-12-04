@@ -15,7 +15,7 @@ namespace Formulario.Dados
 
         #region Comandos Bases MySQL 5.1.7
 
-        private const string V = @"database=consultacep; data source=";
+        private const string V = @"database=consultacep; data source=banco; user id=usuario; password=senha";
 
         // Conexão MySql
         private string _stringConexao = V;

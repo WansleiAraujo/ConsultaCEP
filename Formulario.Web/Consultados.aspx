@@ -42,7 +42,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-12 text-center my-2">
-                            <h2 class="display-6">Lista de CEPs consultados</h2>
+                            <h2 class="display-6">CEPs consultados</h2>
                             <i class="fas-clipboard-list-check"></i>
                         </div>
                     </div>

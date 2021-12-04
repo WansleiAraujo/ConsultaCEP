@@ -11,7 +11,6 @@ namespace Formulario.Web
 
         protected void Page_Load(object sender, EventArgs e)
         {
-            // Carrega Ano atua para as Paginas
             lblAno.Text = DateTime.Now.ToString("yyyy ");
 
             CarregarGrid();
